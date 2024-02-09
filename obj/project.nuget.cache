@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "93a9ZMXS/8Ymg2uv8eaKf4OfkmQkdqH3inWtXbQqTVTd0SWiimcffZMrTiDuRs7iQbaDeMhdsGcbbWp9OA4uFw==",
+  "dgSpecHash": "ex5pEO/HY0e/CSHo+5x8ZnPVNPEqN7/S8MvB3HPLBIvd1rb0+KGC4WiRPvvo0bHH37LLaEEMFHJnuSTL0y4F3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ewyro\\salt\\Mob\\MobExcersize\\MobExcersize.csproj",
+  "projectFilePath": "/Users/salt-dev/saltStart/MobExcersize/MobExcersize.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
