@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MobExcersize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cbf55f19aa72592d72b16827ab5a51ccd15f186")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e0e4d19c0dd795b65a35d4a00b28beaa87ffb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MobExcersize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MobExcersize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
